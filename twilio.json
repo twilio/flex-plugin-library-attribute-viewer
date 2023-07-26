@@ -1,4 +1,4 @@
 {
-    "name": "Flex Library Plugin",
-    "description": "Template Description"
+  "name": "Attribute Viewer",
+  "description": "This feature displays task attributes in the task info tab, and displays worker attributes in the teams view worker panel."
 }
