@@ -1,6 +1,7 @@
 {
   "name": "plibc-attribute-viewer",
   "version": "1.0.0",
+  "id": "plibc-attribute-viewer",
   "private": true,
   "scripts": {
     "test": "jest",
